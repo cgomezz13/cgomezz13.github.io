@@ -3031,7 +3031,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/fog.jpg");
+		background-image: url("images/overlay.png"), url("../../images/bright-clouds.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3056,7 +3056,7 @@
 		}
 
 		#banner p {
-			font-size: 1.25em;
+			font-size: 1.75em;
 			margin-bottom: 1.75em;
 		}
 
@@ -3275,7 +3275,8 @@
 			}
 
 				#banner h2 {
-					font-size: 3.5em;
+					font-size: 3.75em;
+                    font-weight: 400;
 				}
 
 	}
